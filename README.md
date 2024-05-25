@@ -1,3 +1,6 @@
+# Medusa
+Medusa is a fork of Hydra which only generates GLSL shader strings (using WebGL 2.0). It's useful for interoperability. 
+
 ### Hydra-Synth
 
 Video synth engine for [hydra](https://github.com/ojack/hydra).
